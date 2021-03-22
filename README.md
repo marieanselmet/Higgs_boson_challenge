@@ -60,4 +60,8 @@ python run.py
 Script to produce the same .csv predictions used in the best submission on the Kaggle platform.
 
 
+### ```report.pdf```
+
+The complete description of the project and the interpretation and discussion of the results can be found in this file.
+
 
